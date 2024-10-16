@@ -1,0 +1,79 @@
+/* Q1 */
+.box {
+    height: 200px;
+    width: 300px;
+  }
+  
+  /* Q2 */
+  .responsive-box {
+    width: 50vw;
+    height: 50vh;
+  }
+  
+  /* Q3 */
+  .padded-text {
+    padding: 20px;
+  }
+  
+  /* Q4 */
+  .custom-padding {
+    padding: 10px 20px;
+  }
+  
+  /* Q5 */
+  .border-box {
+    border: 2px solid black;
+  }
+  
+  /* Q6 */
+  .rounded-border {
+    border: 3px dotted red;
+    border-radius: 15px;
+  }
+  
+  /* Q7 */
+  .margin-text {
+    margin: 30px;
+  }
+  
+  /* Q8 */
+  .custom-margin {
+    margin: 20px 40px;
+  }
+  
+  /* Q9 */
+  .inline-element {
+    display: inline;
+  }
+  
+  /* Q10 */
+  .block-element {
+    display: block;
+  }
+  
+  /* Q11 */
+  .inline-block-element {
+    display: inline-block;
+  }
+  
+  /* Q12 */
+  .hidden-element {
+    display: none;
+  }
+  
+  /* Q13 */
+  .visible-element {
+    visibility: visible;
+  }
+  
+  /* Q14 */
+  .invisible-element {
+    visibility: hidden;
+  }
+  
+  /* Q15 */
+  .transparent-box {
+    background-color: blue;
+    opacity: 0.5;
+  }
+  
